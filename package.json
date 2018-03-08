@@ -1,5 +1,5 @@
 {
-  "name": "phoenix_html",
+  "name": "phoenix_html_standalone",
   "version": "0.0.1",
   "description": "Standalone PhoenixHTML form helper",
   "main": "index.js",
